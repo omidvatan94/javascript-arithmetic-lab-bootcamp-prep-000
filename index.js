@@ -1,6 +1,6 @@
 var a = 5
 var b = 10
-var n = 3
+var n = 15
 function add(a,b) {
   return a+b
 }
@@ -14,5 +14,5 @@ function divide(a,b) {
   return a/b
 }
 function inc(n) {
-  return parseInt(3, 10)
+  return n++
 }
